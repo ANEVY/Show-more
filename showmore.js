@@ -1,16 +1,8 @@
-/* Add your JavaScript code here.
+/*
+A simple script to show or hide selected content
+Akombo Neville Akwo
 
-If you are using the jQuery library, then don't forget to wrap your code inside jQuery.ready() as follows:
-
-
-
---
-
-If you want to link a JavaScript file that resides on another server (similar to
-<script src="https://example.com/your-js-file.js"></script>), then please use
-the "Add HTML Code" page, as this is a HTML code that links a JavaScript file.
-
-End of comment */
+*/
 
 jQuery(document).ready(function( $ ){
     // show hide configuration
